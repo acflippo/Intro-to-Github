@@ -21,3 +21,20 @@ https://docs.github.com/en/free-pro-team@latest/desktop/installing-and-configuri
    Remember to "Push origin" which sync your local commits to the remote repo
 
 6. Check the github.com for your account and repo to see the changes.
+
+## Make a branch
+
+To develop you code, it is recommended to create a branch to minimize bad / untested code going into the master branch.
+
+1. Create a branch in Github Desktop (provide a unique name)
+
+2. Switch your Github Desktop to the "Current Branch", fill in a new name and click "Create New Branch"
+
+3. Make your changes to your files locally and save them
+
+4. In Github Desktop, add a comment and hit commit.
+   Remember to "Push origin" which sync your local commits to the remote repo
+
+5. Check the github.com for your repo and your branch to verify your new code is there
+
+5. 
