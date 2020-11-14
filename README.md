@@ -1,7 +1,7 @@
-HelloWorld
-=============
+Introduction to Github
+======================
 
-## Introduction to Github Desktop
+## Github Desktop
 
 Version control systems are a category of software tools that help a software team manage changes to source code over time. This helps a team to collaborate in a multi-developer project without stepping on each other's work.
 
