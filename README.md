@@ -7,6 +7,8 @@ Version control systems are a category of software tools that help a software te
 
 Github is a distributed system so you can develop your code offline or connected to the internet.  To do this, the code you work on is on a local repo which is separate from the remote repo (in the cloud).  When you edit and commit your code, it is alwasy on your local repo.  The remote repo does not know about your local repo until you sync your local work to the remote repo.  With multiple developers, everyone is getting their code from the remote repo when they want to refresh their code with the latest updates.  It's important to check-in and sync your code when finish to minimize conflicts.
 
+![Version Control System](version_control_workflow.png)
+
 ## Getting Started
 Install Github Desktop for your operating system.
 
@@ -53,7 +55,7 @@ To develop you code, it is recommended to create a branch to minimize bad / unte
 
 ## Merge Branch and Resolve Conflicts
 
-A pull request is to signal to the repo administrators that you are requesting your changes to be merged to the main branch of the code.  As an administrator, you can review changes, reject changes, provide constructive feedback on how the changes can be improved and accept & merge the changes into the main branch.
+A pull request is to signal to the repo administrators that you are requesting your changes to be merged to the main branch.  As an administrator, you can review, reject changes, provide constructive feedback on how the changes can be improved and accept & merge the changes into the main branch.
 
 11. As a developer, request a Pull Request.
 
@@ -65,6 +67,6 @@ A pull request is to signal to the repo administrators that you are requesting y
 
 ## Clean up Branches
 
-Lastly, after your projects and work-in-progress are done and merged into the main branch, it is a good practice to remove older branches.  Sometimes older repos have been superceded with new repos, you may delete old repos if necessary.
+Lastly, after your projects and work-in-progress are done and have merged into the main branch, it is a good practice to remove older branches.  Sometimes older repos have been superceded with new repos, you may delete old repos if necessary.
 
 [Clean up branches](https://youtu.be/xEZdKLvRMb8)
