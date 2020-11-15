@@ -20,7 +20,7 @@ https://docs.github.com/en/free-pro-team@latest/desktop/installing-and-configuri
 1. Create your own repo, IntroToGithub in the Web UI and sync it to your local Github repo.
    Make a note where on the file system you have configured Github to save your projects/repos
 
-[Create a New Github Repo](https://youtu.be/9GILbk78S7I)
+Video: [Create a New Github Repo](https://youtu.be/9GILbk78S7I)
 
 ## Change a file & Add a new file to repo
 
@@ -33,7 +33,7 @@ https://docs.github.com/en/free-pro-team@latest/desktop/installing-and-configuri
 
 5. Check the github.com for your account and repo to see the changes.
 
-[Change a file and add a new file to repo](https://youtu.be/takdNeJmrB8)
+Video: [Change a file and add a new file to repo](https://youtu.be/takdNeJmrB8)
 
 
 ## Make a branch
@@ -51,19 +51,28 @@ To develop you code, it is recommended to create a branch to minimize bad / unte
 
 10. Check the github.com for your repo and your branch to verify your new code is there
 
-[Make a branch and commit to branch](https://youtu.be/DUH_N50A9i4)
+Video: [Make a branch and commit to branch](https://youtu.be/DUH_N50A9i4)
 
-## Merge Branch and Resolve Conflicts
 
-A pull request is to signal to the repo administrators that you are requesting your changes to be merged to the main branch.  As an administrator, you can review, reject changes, provide constructive feedback on how the changes can be improved and accept & merge the changes into the main branch.
+## Developer: Merge Main Branch into Local Branch before Commit
 
-11. As a developer, request a Pull Request.
+11. As a developer, you will be working on your local branch before creating a Pull Request.  However, the Main branch may have changed (i.e. moved on since the time you created your branch), so you must incorporate any new changes from Main into your local branch before committing your change. In your Github Desktop, you will need to "Merge master into **your branch**" and resolve any conflicts manually per https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/syncing-your-branch.
 
-12. As an administrator, review and merge the 1st Pull Request.
+12. Request a Pull Request from Github Destop.
 
-13. As an adminstrator, review and merge the 2nd Pull Request.  If there are any conflicts, manually merge (i.e. make changes) the new code into the main branch.
+Video: [Merge Main Branch into local Branch before Commit](https://youtu.be/JGRmz5W6hIM)
 
-[Merge Branch and Resolve Conflicts](https://youtu.be/FAJ2e0gDnHY)
+
+## Repository Administrator: Merge Branch and Resolve Conflicts
+
+A pull request is to signal to the repo administrators that you are requesting your changes to be merged to the main branch.  As an administrator, you can review, reject changes, provide constructive feedback on how the changes can be improved and accept & merge the changes into the main branch.  
+
+13. As an administrator, review and merge any Pull requests. You should not experience any conflicts if the developer followed step 11 and 12 above.
+
+14. If there are any remaining conflicts, manually merge (i.e. make changes) the new code into the main branch.
+
+Video: [Merge Branch and Resolve Conflicts as an Administrator](https://youtu.be/FAJ2e0gDnHY)
+
 
 ## Clean up Branches
 
