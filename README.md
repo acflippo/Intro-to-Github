@@ -76,6 +76,6 @@ Video: [Merge Branch and Resolve Conflicts as an Administrator](https://youtu.be
 
 ## Clean up Branches
 
-Lastly, after your projects and work-in-progress are done and have merged into the main branch, it is a good practice to remove older branches.  Sometimes older repos have been superceded with new repos, you may delete old repos if necessary.
+Lastly, after your projects and work-in-progress are done and have merged into the main branch, it is a good practice to remove older branches.  Sometimes older repos have been superceded with new repos, you may delete old repos if necessary.  It is not a good practice to reuse existing branch for new work.
 
-[Clean up branches](https://youtu.be/xEZdKLvRMb8)
+Video: [Clean up branches](https://youtu.be/xEZdKLvRMb8)
